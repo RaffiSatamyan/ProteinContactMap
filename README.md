@@ -22,7 +22,7 @@ This project focuses on **predicting residue-residue contacts in proteins** usin
 ## Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.12 or higher
 - GPU-enabled machine with CUDA (recommended for faster training)
 - Required libraries:
   - `torch`
@@ -34,8 +34,8 @@ This project focuses on **predicting residue-residue contacts in proteins** usin
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd Protein
+   git clone <[repository_url](https://github.com/RaffiSatamyan/ProteinContactMap)>
+   cd ProteinContactMap
    ```
 2. Install dependencies:
    ```bash
