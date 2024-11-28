@@ -76,10 +76,9 @@ This project focuses on **predicting residue-residue contacts in proteins** usin
 ## Training
 
 ### Steps
-1. Use **RTX 4080 GPU** for faster training.
-2. Monitor performance with metrics:
+1. Monitor performance with metrics:
    - **Precision**, **Recall**, **F1-Score**, and **ROC-AUC**.
-3. Save/load model parameters using custom utilities.
+2. Save/load model parameters using custom utilities.
 
 ### Challenges Addressed
 - **Class imbalance**: Resolved using weighted loss functions.
