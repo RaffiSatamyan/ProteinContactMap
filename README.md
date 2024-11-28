@@ -34,7 +34,7 @@ This project focuses on **predicting residue-residue contacts in proteins** usin
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <[repository_url](https://github.com/RaffiSatamyan/ProteinContactMap)>
+   git clone <https://github.com/RaffiSatamyan/ProteinContactMap>
    cd ProteinContactMap
    ```
 2. Install dependencies:
